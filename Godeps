@@ -1,0 +1,10 @@
+{
+	"ImportPath": "github.com/ddollar/describe-tag",
+	"GoVersion": "go version go1.2 darwin/amd64",
+	"Deps": [
+		{
+			"ImportPath": "github.com/ddollar/aws",
+			"Rev": "a62e2ed473962ce80bd4586dade54cb5d9ceebd5"
+		}
+	]
+}
