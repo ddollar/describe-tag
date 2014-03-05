@@ -18,7 +18,6 @@ func main() {
 	v, err := aws.DescribeTags(instanceId)
 
 	if err != nil {
-
 		fmt.Fprintln(os.Stderr, err)
 		os.Exit(3)
 	}
